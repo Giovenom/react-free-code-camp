@@ -1,0 +1,8 @@
+DRUM MACHINE
+https://codepen.io/AndreaGiov/pen/zYJbGmO
+
+CALCOLATORE JAVASCRIPT
+https://codepen.io/AndreaGiov/pen/dyqrYJJ
+
+OROLOGIO 25+5
+https://codepen.io/AndreaGiov/pen/dyqrYJJ
